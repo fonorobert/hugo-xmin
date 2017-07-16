@@ -3,6 +3,7 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
+  background-color: lightgoldenrodyellow;
 }
 
 /* header and footer areas */
@@ -28,6 +29,7 @@ pre {
   box-shadow: 5px 5px 5px #eee;
   padding: 1em;
   overflow-x: auto;
+  background-color: white;
 }
 code { background: #f9f9f9; }
 pre code { background: none; }
