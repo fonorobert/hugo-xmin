@@ -6,6 +6,9 @@ body {
   background-color: lightgoldenrodyellow;
 }
 
+p {
+	line-height: 2em;
+}
 /* header and footer areas */
 .menu li { display: inline-block; }
 .article-meta, .menu a {
