@@ -8,6 +8,7 @@ body {
 
 p {
 	line-height: 2em;
+	margin: 2em 0;
 }
 /* header and footer areas */
 .menu li { display: inline-block; }
