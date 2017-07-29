@@ -36,7 +36,7 @@ pre {
   background-color: white;
 }
 code { background: #f9f9f9; }
-pre code { background: none; }
+code.hljs { background-color: #f9f9f9; }
 
 /* misc elements */
 img, iframe, video { max-width: 100%; }
